@@ -25,16 +25,22 @@ This repository contains a comprehensive and advanced framework for the classifi
 Install dependencies via pip: pip install numpy scikit-learn matplotlib torch torchvision
 
 
-
 📂 Project Structure
 
 ├── train_with_curriculum.py       # Self-supervised training with curriculum logic
+
 ├── extract_features.py            # Feature extraction from pretrained networks
+
 ├── mutual_info_band_grouping.py   # Band grouping via mutual information
+
 ├── feature_selection.py           # RRFS feature selection method
+
 ├── svm_ensemble_classifier.py     # SVM training and probabilistic ensemble fusion
+
 ├── utils.py                       # Helper functions
+
 ├── main_pipeline.py               # Main execution script
+
 ├── README.md                      # Project documentation
 
 

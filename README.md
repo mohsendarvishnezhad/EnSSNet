@@ -9,6 +9,7 @@ This repository contains a comprehensive and advanced framework for the classifi
 
 
 **🧠 Key Features**
+
     ✅ Self-Supervised Pretraining using EfficientNet-B0 and a custom Graph Convolutional Network (GCN)
     🎯 Curriculum Learning Strategy that ranks and introduces samples based on difficulty
     🔍 Multi-Scale Patch-Based Spatial Feature Extraction
@@ -17,7 +18,6 @@ This repository contains a comprehensive and advanced framework for the classifi
     🧬 Feature Selection via the proposed Forward and Reverse Rollback Feature Selection methods
     🧮 Ensemble SVM Classification with weighted fusion of probabilistic outputs
     📊 Confusion Matrix, Accuracy Metrics, and final classification map generation
-
 
 
 **🛠 Requirements**
